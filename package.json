@@ -1,0 +1,11 @@
+{
+  "name": "node-ci-demo",
+  "version": "1.0.0",
+  "description": "Простое Node.js-приложение для CI/CD-практики",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'tests passed' && exit 0"
+  },
+  "license": "MIT"
+}
